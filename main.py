@@ -59,6 +59,7 @@ try:
             action.send_keys(Keys.SPACE)
             action.perform()
             time.sleep(random.randint(25, 120))
+            print('successful')
 
     for _ in range(2):
         Process(target=scrape).start()

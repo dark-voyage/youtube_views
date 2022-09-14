@@ -8,3 +8,6 @@
 ### Technologies
 * Python
 * Selenium
+
+### Reminder
+#### Youtube does not update views immideately, it may take a while
